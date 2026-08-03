@@ -1,0 +1,15 @@
+E:\JaydenAI\NavBuild\NavBuild\bin\Debug\net10.0\NavBuild.exe
+E:\JaydenAI\NavBuild\NavBuild\bin\Debug\net10.0\NavBuild.deps.json
+E:\JaydenAI\NavBuild\NavBuild\bin\Debug\net10.0\NavBuild.runtimeconfig.json
+E:\JaydenAI\NavBuild\NavBuild\bin\Debug\net10.0\NavBuild.dll
+E:\JaydenAI\NavBuild\NavBuild\bin\Debug\net10.0\NavBuild.pdb
+E:\JaydenAI\NavBuild\NavBuild\obj\Debug\net10.0\NavBuild.GeneratedMSBuildEditorConfig.editorconfig
+E:\JaydenAI\NavBuild\NavBuild\obj\Debug\net10.0\NavBuild.AssemblyInfoInputs.cache
+E:\JaydenAI\NavBuild\NavBuild\obj\Debug\net10.0\NavBuild.AssemblyInfo.cs
+E:\JaydenAI\NavBuild\NavBuild\obj\Debug\net10.0\NavBuild.csproj.CoreCompileInputs.cache
+E:\JaydenAI\NavBuild\NavBuild\obj\Debug\net10.0\NavBuild.sourcelink.json
+E:\JaydenAI\NavBuild\NavBuild\obj\Debug\net10.0\NavBuild.dll
+E:\JaydenAI\NavBuild\NavBuild\obj\Debug\net10.0\refint\NavBuild.dll
+E:\JaydenAI\NavBuild\NavBuild\obj\Debug\net10.0\NavBuild.pdb
+E:\JaydenAI\NavBuild\NavBuild\obj\Debug\net10.0\NavBuild.genruntimeconfig.cache
+E:\JaydenAI\NavBuild\NavBuild\obj\Debug\net10.0\ref\NavBuild.dll

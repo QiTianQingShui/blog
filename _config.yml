@@ -1,3 +1,18 @@
-title: JaydenAI
-theme: jekyll-theme-minimal
-markdown: AI知识库
+title: JyadenAI
+description: JyadenAI
+
+# 1. 基础配置与插件
+theme: minima
+plugins:
+  - jekyll-optional-front-matter
+
+# 2. 避免中文目录在链接中变成乱码
+url: ""
+baseurl: ""
+
+# 3. 为所有目录下的 Markdown 自动套用文章皮肤
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "post"

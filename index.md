@@ -1,19 +1,29 @@
-# 我的知识库
+---
+layout: home
+title: JaydenAI
+---
 
-欢迎来到我的技术知识库，这里记录了我在 MAF Provider、Shell Executor、Agent 工具系统等方面的研究与实践。
+## 🧭 JaydenAI
 
-## 快速导航
-- [MAF Provider](docs/maf-provider.md)
-- [Shell Executor](docs/shell-executor.md)
-- [Agent 工具系统](docs/agent-framework.md)
-- [示例代码](docs/samples.md)
-
-## 内容结构
-- docs/maf-provider.md —— Provider 深度分析
-- docs/shell-executor.md —— Shell 执行器研究
-- docs/agent-framework.md —— Agent Framework 解析
-- docs/samples.md —— 可运行示例代码
-
-## 最近更新
-- 2026-07-21：新增 FileMemoryProvider 示例
-- 2026-07-20：补充 BackgroundAgentsProvider 分析
+<div class="custom-nav-menu" style="margin-top: 25px;">
+  {% for group in site.data.navigation %}
+    <div class="nav-group" style="margin-bottom: 25px; padding: 15px; border: 1px solid #e1e4e8; border-radius: 6px; background-color: #f6f8fa;">
+      
+      <!-- 渲染您自定义的组名 -->
+      <h3 style="margin-top: 0; color: #24292e; border-bottom: 2px solid #e1e4e8; padding-bottom: 8px;">
+        {{ group.group_name }}
+      </h3>
+      
+      <ul style="list-style-type: none; padding-left: 5px; margin: 0;">
+        {% for item in group.items %}
+          <li style="margin: 10px 0; font-size: 1.05rem;">
+            🔗 <a href="{{ item.path | relative_url }}" style="text-decoration: none; color: #0366d6; font-weight: 500;">
+              {{ item.title }}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+      
+    </div>
+  {% endfor %}
+</div>
