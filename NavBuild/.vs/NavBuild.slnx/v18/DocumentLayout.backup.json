@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\JaydenAI\\NavBuild\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A66BEDBC-D43F-4456-892B-7ABF4DFD498F}|NavBuild\\NavBuild.csproj|e:\\jaydenai\\navbuild\\navbuild\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A66BEDBC-D43F-4456-892B-7ABF4DFD498F}|NavBuild\\NavBuild.csproj|solutionrelative:navbuild\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72D9BB60-B985-2829-2B99-594C0063E208}|NavBuild\\NavBuild.csproj|e:\\jaydenai\\navbuild\\navbuild\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D9BB60-B985-2829-2B99-594C0063E208}|NavBuild\\NavBuild.csproj|solutionrelative:navbuild\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "NavBuild\\Program.cs",
               "ToolTip": "E:\\JaydenAI\\NavBuild\\NavBuild\\Program.cs",
               "RelativeToolTip": "NavBuild\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-03T08:21:27.976Z",
               "EditorCaption": ""

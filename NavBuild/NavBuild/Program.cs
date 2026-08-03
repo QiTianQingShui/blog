@@ -8,9 +8,10 @@ static void GenerateNavigation(string directory)
     {
         Directory.CreateDirectory(dir!);
     }
-    if (!File.Exists(navFile))
+    if (File.Exists(navFile))
     { 
-        File.Create(navFile);
+
+        File.Delete(navFile);
     }
 
     var builder = new StringBuilder();
@@ -32,6 +33,10 @@ static void GenerateNavigation(string directory)
             {
                 title = title.Substring(index + 1).Trim();
             }
+            title = title.Replace("\"", "");
+            title = title.Replace("“", "");
+            title = title.Replace("”", "");
+            title = title.Replace("——", ":");
             builder.AppendLine($"    - title: \"{ordernal++:D2}.{title}\"");
             builder.AppendLine($"    - path: \"/{g}/{fileName}\"");
         }
