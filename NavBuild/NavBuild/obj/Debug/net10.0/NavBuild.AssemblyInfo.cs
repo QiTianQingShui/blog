@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NavBuild")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c165de0b1da1c8a5825de961aa31012a2043d203")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33fcd88cc55e4df0eb7e63ca64408a00ea5501ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("NavBuild")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NavBuild")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
